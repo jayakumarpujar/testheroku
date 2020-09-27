@@ -70,3 +70,10 @@ info: message:  {"type":"bye","from":"c369b44-4190-1f0a-bc18-abb062ee82a9"}
 info: Server running on port 1337
 info: Server IP Address:localhost
 info: Socket IO Address:127.0.0.1:1337
+info: Server running on port 4000
+info: Server IP Address:localhost
+info: Socket IO Address:127.0.0.1:4000
+info: ConfigNameSpaceChannel:/7087b655-199d-4612-27fb-fdab1c6f1ea4
+info: 7087b655-199d-4612-27fb-fdab1c6f1ea4 joined first. Creates room huwhy2
+info: message:  {"type":"newparticipant","from":"7087b655-199d-4612-27fb-fdab1c6f1ea4"}
+info: message:  {"type":"bye","from":"7087b655-199d-4612-27fb-fdab1c6f1ea4"}

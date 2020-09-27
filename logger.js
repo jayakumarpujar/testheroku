@@ -1,7 +1,7 @@
-const winston = require('winston');
+var winston = require('winston');
 
 function logger(environment) {
-    const path = __dirname;
+    var path = __dirname;
     if (environment === 'local' || environment === 'production') {
         path = path + '/';
     } else if (environment === 'test') {
