@@ -11,6 +11,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "bufferutil": "^4.0.1",
+    "ejs": "~3.1.2",
+    "node-static": "~0.7.1",
+    "socket.io": "~2.3.0",
+    "utf-8-validate": "^5.0.2",
+    "cors": "^2.8.1",
+    "winston": "*",
+    "minimist": ">=0.2.1"
   }
 }

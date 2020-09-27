@@ -1,0 +1,72 @@
+info: Server running on port 1337
+info: Server IP Address:localhost
+info: Socket IO Address:127.0.0.1:1337
+info: ConfigNameSpaceChannel:/c222c8f-b9dc-929f-589c-f313d1f8b1da
+info: c222c8f-b9dc-929f-589c-f313d1f8b1da joined first. Creates room xnswlw
+info: message:  {"type":"newparticipant","from":"c222c8f-b9dc-929f-589c-f313d1f8b1da"}
+info: message:  {"type":"bye","from":"c222c8f-b9dc-929f-589c-f313d1f8b1da"}
+info: Server running on port 1337
+info: Server IP Address:localhost
+info: Socket IO Address:127.0.0.1:1337
+info: ConfigNameSpaceChannel:/bf96f9e2-5d36-9e03-5574-de3cefc66a70
+info: bf96f9e2-5d36-9e03-5574-de3cefc66a70 joined first. Creates room xnswlw
+info: message:  {"type":"newparticipant","from":"bf96f9e2-5d36-9e03-5574-de3cefc66a70"}
+info: message:  {"type":"bye","from":"bf96f9e2-5d36-9e03-5574-de3cefc66a70"}
+info: ConfigNameSpaceChannel:/6472dc72-3379-3844-a6-98d4453de43
+info: 6472dc72-3379-3844-a6-98d4453de43 joined first. Creates room 310x06
+info: message:  {"type":"newparticipant","from":"6472dc72-3379-3844-a6-98d4453de43"}
+info: message:  {"type":"bye","from":"6472dc72-3379-3844-a6-98d4453de43"}
+info: Server running on port 1337
+info: Server IP Address:localhost
+info: Socket IO Address:127.0.0.1:1337
+info: ConfigNameSpaceChannel:/61d22572-7b65-8616-59de-efcc41088762
+info: 61d22572-7b65-8616-59de-efcc41088762 joined first. Creates room xnswlw
+info: message:  {"type":"newparticipant","from":"61d22572-7b65-8616-59de-efcc41088762"}
+info: ConfigNameSpaceChannel:/1d6c53e9-8804-56ef-7ade-e6a48a52ce84
+info: 1d6c53e9-8804-56ef-7ade-e6a48a52ce84 joined first. Creates room avb41d
+info: message:  {"type":"newparticipant","from":"1d6c53e9-8804-56ef-7ade-e6a48a52ce84"}
+info: ConfigNameSpaceChannel:/39f35f05-3e59-3246-23c9-4010c1c2a9e3
+info: 39f35f05-3e59-3246-23c9-4010c1c2a9e3 joins room avb41d
+info: message:  {"type":"bye","from":"61d22572-7b65-8616-59de-efcc41088762"}
+info: message:  {"type":"bye","from":"39f35f05-3e59-3246-23c9-4010c1c2a9e3"}
+info: ConfigNameSpaceChannel:/e06d2bc-3130-f501-a90b-5ba5de2714d
+info: e06d2bc-3130-f501-a90b-5ba5de2714d joins room avb41d
+info: message:  {"type":"newparticipant","from":"e06d2bc-3130-f501-a90b-5ba5de2714d"}
+info: ConfigNameSpaceChannel:/46be840b-1d27-191b-172a-f750281c2db7
+info: 46be840b-1d27-191b-172a-f750281c2db7 joins room avb41d
+info: message:  {"type":"newparticipant","from":"46be840b-1d27-191b-172a-f750281c2db7"}
+info: message:  {"type":"bye","from":"1d6c53e9-8804-56ef-7ade-e6a48a52ce84"}
+info: message:  {"type":"bye","from":"e06d2bc-3130-f501-a90b-5ba5de2714d"}
+info: message:  {"type":"bye","from":"46be840b-1d27-191b-172a-f750281c2db7"}
+info: Server running on port 1337
+info: Server IP Address:localhost
+info: Socket IO Address:127.0.0.1:1337
+info: ConfigNameSpaceChannel:/5504b0e3-7edb-efd5-ebf5-e0f0531add15
+info: 5504b0e3-7edb-efd5-ebf5-e0f0531add15 joined first. Creates room xnswlw
+info: message:  {"type":"newparticipant","from":"5504b0e3-7edb-efd5-ebf5-e0f0531add15"}
+info: message:  {"type":"bye","from":"5504b0e3-7edb-efd5-ebf5-e0f0531add15"}
+info: ConfigNameSpaceChannel:/e6c2371f-eb68-eb0-47b3-3a1e9727c36b
+info: e6c2371f-eb68-eb0-47b3-3a1e9727c36b joined first. Creates room cdcdlp
+info: message:  {"type":"newparticipant","from":"e6c2371f-eb68-eb0-47b3-3a1e9727c36b"}
+info: ConfigNameSpaceChannel:/419c3bcf-272e-fe92-1419-ce42fdbb456
+info: 419c3bcf-272e-fe92-1419-ce42fdbb456 joins room cdcdlp
+info: message:  {"type":"bye","from":"419c3bcf-272e-fe92-1419-ce42fdbb456"}
+info: ConfigNameSpaceChannel:/f6631213-e3f8-1a8e-a3da-5988af4dacfe
+info: f6631213-e3f8-1a8e-a3da-5988af4dacfe joins room cdcdlp
+info: message:  {"type":"newparticipant","from":"f6631213-e3f8-1a8e-a3da-5988af4dacfe"}
+info: ConfigNameSpaceChannel:/65774a53-5a42-d06c-7b6e-9fae75b96b2b
+info: 65774a53-5a42-d06c-7b6e-9fae75b96b2b joins room cdcdlp
+info: message:  {"type":"bye","from":"65774a53-5a42-d06c-7b6e-9fae75b96b2b"}
+info: ConfigNameSpaceChannel:/81912ef-efd4-fa0e-ced3-45e175fbfefe
+info: 81912ef-efd4-fa0e-ced3-45e175fbfefe joins room cdcdlp
+info: message:  {"type":"newparticipant","from":"81912ef-efd4-fa0e-ced3-45e175fbfefe"}
+info: ConfigNameSpaceChannel:/c369b44-4190-1f0a-bc18-abb062ee82a9
+info: c369b44-4190-1f0a-bc18-abb062ee82a9 joins room cdcdlp
+info: message:  {"type":"newparticipant","from":"c369b44-4190-1f0a-bc18-abb062ee82a9"}
+info: message:  {"type":"bye","from":"e6c2371f-eb68-eb0-47b3-3a1e9727c36b"}
+info: message:  {"type":"bye","from":"f6631213-e3f8-1a8e-a3da-5988af4dacfe"}
+info: message:  {"type":"bye","from":"81912ef-efd4-fa0e-ced3-45e175fbfefe"}
+info: message:  {"type":"bye","from":"c369b44-4190-1f0a-bc18-abb062ee82a9"}
+info: Server running on port 1337
+info: Server IP Address:localhost
+info: Socket IO Address:127.0.0.1:1337
