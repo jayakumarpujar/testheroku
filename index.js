@@ -1,21 +1,21 @@
 
 'use strict';
 
-var environment = process.env.RTC_ENV || 'local';
+const environment = process.env.RTC_ENV || 'local';
 
-var express = require('express');
-var cors = require('cors');
+const express = require('express');
+const cors = require('cors');
 const http = require('http');
-var logger = require('./logger').logger(environment);
+const logger = require('./logger').logger(environment);
 
-var serverPort = process.env.RTC_PORT || 1337
-var serverIpAddress = process.env.RTC_IP || 'localhost'
-var socketIoServer = '127.0.0.1' + ':' + serverPort;
+const serverPort = process.env.RTC_PORT || 4000
+const serverIpAddress = process.env.RTC_IP || 'localhost'
+const socketIoServer = '127.0.0.1' + ':' + serverPort;
 
 ////////////////////////////////////////////////
 // SETUP SERVER
 ////////////////////////////////////////////////
-var app = express();
+const app = express();
 
 function redirectSec(req, res, next) {
 	if (req.headers['x-forwarded-proto'] == 'http') {
